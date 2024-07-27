@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/Kapil-2201/Leetcode/tree/master/0058-length-of-last-word) |
 | [0387-first-unique-character-in-a-string](https://github.com/Kapil-2201/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1205-defanging-an-ip-address](https://github.com/Kapil-2201/Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [2235-capitalize-the-title](https://github.com/Kapil-2201/Leetcode/tree/master/2235-capitalize-the-title) |
