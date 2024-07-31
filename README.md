@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Kapil-2201/Leetcode/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/Kapil-2201/Leetcode/tree/master/0367-valid-perfect-square) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Kapil-2201/Leetcode/tree/master/2812-find-the-maximum-achievable-number) |
+| [3172-divisible-and-non-divisible-sums-difference](https://github.com/Kapil-2201/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Kapil-2201/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Binary Search
 |  |
