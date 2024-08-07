@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Kapil-2201/Leetcode/tree/master/0367-valid-perfect-square) |
 | [1610-xor-operation-in-an-array](https://github.com/Kapil-2201/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/Kapil-2201/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [1806-count-of-matches-in-tournament](https://github.com/Kapil-2201/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Kapil-2201/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2481-strictly-palindromic-number](https://github.com/Kapil-2201/Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Kapil-2201/Leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
@@ -85,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Kapil-2201/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Simulation
+|  |
+| ------- |
+| [1806-count-of-matches-in-tournament](https://github.com/Kapil-2201/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
 <!---LeetCode Topics End-->
