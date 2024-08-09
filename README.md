@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Kapil-2201/Leetcode/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/Kapil-2201/Leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Kapil-2201/Leetcode/tree/master/0263-ugly-number) |
 | [0367-valid-perfect-square](https://github.com/Kapil-2201/Leetcode/tree/master/0367-valid-perfect-square) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Kapil-2201/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Kapil-2201/Leetcode/tree/master/0231-power-of-two) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Kapil-2201/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/Kapil-2201/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Kapil-2201/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -92,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1806-count-of-matches-in-tournament](https://github.com/Kapil-2201/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Kapil-2201/Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
