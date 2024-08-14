@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Kapil-2201/Leetcode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Kapil-2201/Leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Kapil-2201/Leetcode/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/Kapil-2201/Leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Kapil-2201/Leetcode/tree/master/0367-valid-perfect-square) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Kapil-2201/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/Kapil-2201/Leetcode/tree/master/1610-xor-operation-in-an-array) |
@@ -37,12 +38,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Kapil-2201/Leetcode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/Kapil-2201/Leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Kapil-2201/Leetcode/tree/master/0367-valid-perfect-square) |
 ## Hash Table
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Kapil-2201/Leetcode/tree/master/0041-first-missing-positive) |
 | [0217-contains-duplicate](https://github.com/Kapil-2201/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Kapil-2201/Leetcode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Kapil-2201/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1635-number-of-good-pairs](https://github.com/Kapil-2201/Leetcode/tree/master/1635-number-of-good-pairs) |
 ## Queue
@@ -60,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kapil-2201/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Kapil-2201/Leetcode/tree/master/0041-first-missing-positive) |
 | [0217-contains-duplicate](https://github.com/Kapil-2201/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Kapil-2201/Leetcode/tree/master/0268-missing-number) |
 | [1635-number-of-good-pairs](https://github.com/Kapil-2201/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Kapil-2201/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2727-number-of-senior-citizens](https://github.com/Kapil-2201/Leetcode/tree/master/2727-number-of-senior-citizens) |
@@ -74,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Kapil-2201/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Kapil-2201/Leetcode/tree/master/0268-missing-number) |
 ## Brainteaser
 |  |
 | ------- |
@@ -86,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Kapil-2201/Leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Kapil-2201/Leetcode/tree/master/0268-missing-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Kapil-2201/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/Kapil-2201/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Kapil-2201/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
