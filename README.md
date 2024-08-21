@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/Kapil-2201/Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Kapil-2201/Leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Kapil-2201/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Kapil-2201/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Kapil-2201/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/Kapil-2201/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/Kapil-2201/Leetcode/tree/master/1635-number-of-good-pairs) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Kapil-2201/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Kapil-2201/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Kapil-2201/Leetcode/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Kapil-2201/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1635-number-of-good-pairs](https://github.com/Kapil-2201/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Kapil-2201/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2727-number-of-senior-citizens](https://github.com/Kapil-2201/Leetcode/tree/master/2727-number-of-senior-citizens) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Kapil-2201/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Kapil-2201/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Kapil-2201/Leetcode/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Kapil-2201/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Brainteaser
 |  |
 | ------- |
