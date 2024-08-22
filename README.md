@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/Kapil-2201/Leetcode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Kapil-2201/Leetcode/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/Kapil-2201/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0263-ugly-number](https://github.com/Kapil-2201/Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Kapil-2201/Leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Kapil-2201/Leetcode/tree/master/0367-valid-perfect-square) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Kapil-2201/Leetcode/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/Kapil-2201/Leetcode/tree/master/0233-number-of-digit-one) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -153,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Kapil-2201/Leetcode/tree/master/0011-container-with-most-water) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0233-number-of-digit-one](https://github.com/Kapil-2201/Leetcode/tree/master/0233-number-of-digit-one) |
 <!---LeetCode Topics End-->
