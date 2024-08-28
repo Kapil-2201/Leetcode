@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kapil-2201/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Kapil-2201/Leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Kapil-2201/Leetcode/tree/master/0367-valid-perfect-square) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Kapil-2201/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Kapil-2201/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Kapil-2201/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/Kapil-2201/Leetcode/tree/master/2727-number-of-senior-citizens) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Kapil-2201/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Kapil-2201/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Kapil-2201/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Two Pointers
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kapil-2201/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Kapil-2201/Leetcode/tree/master/0202-happy-number) |
 | [2481-strictly-palindromic-number](https://github.com/Kapil-2201/Leetcode/tree/master/2481-strictly-palindromic-number) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Kapil-2201/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
 | ------- |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Kapil-2201/Leetcode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kapil-2201/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Kapil-2201/Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Kapil-2201/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Brainteaser
 |  |
 | ------- |
