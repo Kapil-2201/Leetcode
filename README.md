@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Kapil-2201/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Kapil-2201/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Kapil-2201/Leetcode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/Kapil-2201/Leetcode/tree/master/0202-happy-number) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Kapil-2201/Leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Kapil-2201/Leetcode/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/Kapil-2201/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0326-power-of-three](https://github.com/Kapil-2201/Leetcode/tree/master/0326-power-of-three) |
