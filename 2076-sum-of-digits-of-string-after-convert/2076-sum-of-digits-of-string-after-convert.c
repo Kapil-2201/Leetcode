@@ -6,14 +6,7 @@ int getLucky(char* s, int k) {
     }
     printf("%d",num);
     while(k-->1){
-        if(num<100)
-            num = (num)%10+(num/10);
-        else if(num<1000){
-            num = (num/100) + num%10 +num/10 - (num/100)*10;
-        }
-        else{
             num = (num/1000) + num/100 + num/10 + num%10 - (num/100)*10-(num/1000)*10;            
-        }
     }
     return num;
 }
