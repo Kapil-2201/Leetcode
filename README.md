@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kapil-2201/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kapil-2201/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Kapil-2201/Leetcode/tree/master/0041-first-missing-positive) |
+| [0064-minimum-path-sum](https://github.com/Kapil-2201/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Kapil-2201/Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Kapil-2201/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Kapil-2201/Leetcode/tree/master/0136-single-number) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/Kapil-2201/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/Kapil-2201/Leetcode/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/Kapil-2201/Leetcode/tree/master/0198-house-robber) |
 | [0233-number-of-digit-one](https://github.com/Kapil-2201/Leetcode/tree/master/0233-number-of-digit-one) |
@@ -209,4 +211,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Kapil-2201/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+## Matrix
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/Kapil-2201/Leetcode/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
