@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Kapil-2201/Leetcode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/Kapil-2201/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Kapil-2201/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Kapil-2201/Leetcode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/Kapil-2201/Leetcode/tree/master/0202-happy-number) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Kapil-2201/Leetcode/tree/master/0062-unique-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Kapil-2201/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Enumeration
 |  |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Kapil-2201/Leetcode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Kapil-2201/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/Kapil-2201/Leetcode/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/Kapil-2201/Leetcode/tree/master/0198-house-robber) |
