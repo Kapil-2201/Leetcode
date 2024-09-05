@@ -5,7 +5,6 @@ int* missingRolls(int* rolls, int s, int mean, int n, int* r) {
     *r = n;
     int sum = 0;
 
-    int*ans = (int*)malloc(*r*sizeof(int));
 
     for(int i = 0;i < s;i++){
         sum+=rolls[i];
@@ -15,6 +14,8 @@ int* missingRolls(int* rolls, int s, int mean, int n, int* r) {
        *r = 0;
         return NULL;
     }
+
+    int*ans = (int*)malloc(*r*sizeof(int));
     for(int i = 0;i < n;i++){
         ans[i] = target / n + (i < (target % n)?1:0) ;
     }
