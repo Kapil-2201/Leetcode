@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Kapil-2201/Leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1806-count-of-matches-in-tournament](https://github.com/Kapil-2201/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Kapil-2201/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2155-find-missing-observations](https://github.com/Kapil-2201/Leetcode/tree/master/2155-find-missing-observations) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Kapil-2201/Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2481-strictly-palindromic-number](https://github.com/Kapil-2201/Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2571-find-the-pivot-integer](https://github.com/Kapil-2201/Leetcode/tree/master/2571-find-the-pivot-integer) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Kapil-2201/Leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Kapil-2201/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Kapil-2201/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2155-find-missing-observations](https://github.com/Kapil-2201/Leetcode/tree/master/2155-find-missing-observations) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Kapil-2201/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/Kapil-2201/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Kapil-2201/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1806-count-of-matches-in-tournament](https://github.com/Kapil-2201/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Kapil-2201/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Kapil-2201/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2155-find-missing-observations](https://github.com/Kapil-2201/Leetcode/tree/master/2155-find-missing-observations) |
 ## Recursion
 |  |
 | ------- |
