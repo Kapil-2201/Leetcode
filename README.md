@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Kapil-2201/Leetcode/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/Kapil-2201/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Kapil-2201/Leetcode/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/Kapil-2201/Leetcode/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/Kapil-2201/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kapil-2201/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/Kapil-2201/Leetcode/tree/master/0724-find-pivot-index) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Kapil-2201/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Kapil-2201/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Kapil-2201/Leetcode/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/Kapil-2201/Leetcode/tree/master/0274-h-index) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kapil-2201/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0948-sort-an-array](https://github.com/Kapil-2201/Leetcode/tree/master/0948-sort-an-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Kapil-2201/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -266,5 +268,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/Kapil-2201/Leetcode/tree/master/0274-h-index) |
 | [0948-sort-an-array](https://github.com/Kapil-2201/Leetcode/tree/master/0948-sort-an-array) |
 <!---LeetCode Topics End-->
