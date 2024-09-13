@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Kapil-2201/Leetcode/tree/master/0367-valid-perfect-square) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Kapil-2201/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Kapil-2201/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Kapil-2201/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Kapil-2201/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
 |  |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Kapil-2201/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1635-number-of-good-pairs](https://github.com/Kapil-2201/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Kapil-2201/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Kapil-2201/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Kapil-2201/Leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 ## Array
 |  |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Kapil-2201/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Kapil-2201/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2155-find-missing-observations](https://github.com/Kapil-2201/Leetcode/tree/master/2155-find-missing-observations) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Kapil-2201/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Kapil-2201/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/Kapil-2201/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Kapil-2201/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
