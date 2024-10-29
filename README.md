@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Kapil-2201/Leetcode/tree/master/0198-house-robber) |
 | [0233-number-of-digit-one](https://github.com/Kapil-2201/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0583-delete-operation-for-two-strings](https://github.com/Kapil-2201/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
+| [0629-k-inverse-pairs-array](https://github.com/Kapil-2201/Leetcode/tree/master/0629-k-inverse-pairs-array) |
 | [1250-longest-common-subsequence](https://github.com/Kapil-2201/Leetcode/tree/master/1250-longest-common-subsequence) |
 ## Heap (Priority Queue)
 |  |
