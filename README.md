@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Kapil-2201/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Kapil-2201/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Kapil-2201/Leetcode/tree/master/0069-sqrtx) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Kapil-2201/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/Kapil-2201/Leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Kapil-2201/Leetcode/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/Kapil-2201/Leetcode/tree/master/0233-number-of-digit-one) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/Kapil-2201/Leetcode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Kapil-2201/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Kapil-2201/Leetcode/tree/master/0137-single-number-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Kapil-2201/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kapil-2201/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Kapil-2201/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Kapil-2201/Leetcode/tree/master/0162-find-peak-element) |
@@ -298,4 +300,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Kapil-2201/Leetcode/tree/master/0292-nim-game) |
+## Stack
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Kapil-2201/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->
