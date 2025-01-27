@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Kapil-2201/Leetcode/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/Kapil-2201/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Kapil-2201/Leetcode/tree/master/0165-compare-version-numbers) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Kapil-2201/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Kapil-2201/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/Kapil-2201/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [1205-defanging-an-ip-address](https://github.com/Kapil-2201/Leetcode/tree/master/1205-defanging-an-ip-address) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Kapil-2201/Leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Kapil-2201/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Kapil-2201/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Kapil-2201/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [2481-strictly-palindromic-number](https://github.com/Kapil-2201/Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Kapil-2201/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
