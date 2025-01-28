@@ -24,9 +24,10 @@ class Solution {
 
         while (!queue.isEmpty()) {
             int size = queue.size();
-            while (size != 0) {
+            
+         for(int i = 0;i < size;i++) {
             TreeNode node = queue.poll();
-                if(size == 1)
+                if(i == size - 1)
                 list.add(node.val);
 
                 if (node.left != null)
@@ -35,8 +36,8 @@ class Solution {
                 if (node.right != null)
                     queue.add(node.right);
 
-                size--;
-
+                
+        
             }
 
         }
