@@ -314,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Kapil-2201/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Kapil-2201/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Kapil-2201/Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/Kapil-2201/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Tree
 |  |
 | ------- |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Kapil-2201/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Kapil-2201/Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Kapil-2201/Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/Kapil-2201/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Kapil-2201/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Kapil-2201/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Breadth-First Search
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Kapil-2201/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Kapil-2201/Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Kapil-2201/Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/Kapil-2201/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
