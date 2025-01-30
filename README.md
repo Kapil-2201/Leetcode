@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Kapil-2201/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Kapil-2201/Leetcode/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/Kapil-2201/Leetcode/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/Kapil-2201/Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Kapil-2201/Leetcode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Kapil-2201/Leetcode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Kapil-2201/Leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Kapil-2201/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Kapil-2201/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Kapil-2201/Leetcode/tree/master/0217-contains-duplicate) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kapil-2201/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kapil-2201/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Kapil-2201/Leetcode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Kapil-2201/Leetcode/tree/master/0049-group-anagrams) |
 | [0063-unique-paths-ii](https://github.com/Kapil-2201/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Kapil-2201/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Kapil-2201/Leetcode/tree/master/0066-plus-one) |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Kapil-2201/Leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Kapil-2201/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Kapil-2201/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Kapil-2201/Leetcode/tree/master/0169-majority-element) |
