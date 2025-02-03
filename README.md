@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Kapil-2201/Leetcode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Kapil-2201/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Kapil-2201/Leetcode/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/Kapil-2201/Leetcode/tree/master/0072-edit-distance) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Kapil-2201/Leetcode/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/Kapil-2201/Leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Kapil-2201/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Kapil-2201/Leetcode/tree/master/0066-plus-one) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Kapil-2201/Leetcode/tree/master/0043-multiply-strings) |
 | [1806-count-of-matches-in-tournament](https://github.com/Kapil-2201/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Kapil-2201/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Kapil-2201/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
