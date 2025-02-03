@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kapil-2201/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Kapil-2201/Leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Kapil-2201/Leetcode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Kapil-2201/Leetcode/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/Kapil-2201/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Kapil-2201/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Kapil-2201/Leetcode/tree/master/0066-plus-one) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Kapil-2201/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/Kapil-2201/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Kapil-2201/Leetcode/tree/master/0169-majority-element) |
 | [0948-sort-an-array](https://github.com/Kapil-2201/Leetcode/tree/master/0948-sort-an-array) |
 ## Greedy
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Kapil-2201/Leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Kapil-2201/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Kapil-2201/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Kapil-2201/Leetcode/tree/master/0064-minimum-path-sum) |
