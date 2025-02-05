@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kapil-2201/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Kapil-2201/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Kapil-2201/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0143-reorder-list](https://github.com/Kapil-2201/Leetcode/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Kapil-2201/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Kapil-2201/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kapil-2201/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Kapil-2201/Leetcode/tree/master/0050-powx-n) |
+| [0143-reorder-list](https://github.com/Kapil-2201/Leetcode/tree/master/0143-reorder-list) |
 | [0231-power-of-two](https://github.com/Kapil-2201/Leetcode/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/Kapil-2201/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0326-power-of-three](https://github.com/Kapil-2201/Leetcode/tree/master/0326-power-of-three) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Kapil-2201/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0143-reorder-list](https://github.com/Kapil-2201/Leetcode/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Kapil-2201/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Kapil-2201/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Kapil-2201/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -406,4 +409,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0449-serialize-and-deserialize-bst](https://github.com/Kapil-2201/Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
+## Linked List
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/Kapil-2201/Leetcode/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
