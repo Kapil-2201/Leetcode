@@ -418,4 +418,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/Kapil-2201/Leetcode/tree/master/0143-reorder-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Kapil-2201/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/Kapil-2201/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
