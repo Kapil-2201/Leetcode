@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Kapil-2201/Leetcode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Kapil-2201/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Kapil-2201/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kapil-2201/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Kapil-2201/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Kapil-2201/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Kapil-2201/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/Kapil-2201/Leetcode/tree/master/0948-sort-an-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Kapil-2201/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Kapil-2201/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kapil-2201/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Kapil-2201/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/Kapil-2201/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Kapil-2201/Leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Kapil-2201/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0948-sort-an-array](https://github.com/Kapil-2201/Leetcode/tree/master/0948-sort-an-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Kapil-2201/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kapil-2201/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Kapil-2201/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Kapil-2201/Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Kapil-2201/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -333,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0274-h-index](https://github.com/Kapil-2201/Leetcode/tree/master/0274-h-index) |
 | [0948-sort-an-array](https://github.com/Kapil-2201/Leetcode/tree/master/0948-sort-an-array) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kapil-2201/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Game Theory
 |  |
 | ------- |
