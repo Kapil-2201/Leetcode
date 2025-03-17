@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Kapil-2201/Leetcode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Kapil-2201/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Kapil-2201/Leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Kapil-2201/Leetcode/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/Kapil-2201/Leetcode/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/Kapil-2201/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Kapil-2201/Leetcode/tree/master/0165-compare-version-numbers) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Kapil-2201/Leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Kapil-2201/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Kapil-2201/Leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Kapil-2201/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Kapil-2201/Leetcode/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Kapil-2201/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/Kapil-2201/Leetcode/tree/master/0202-happy-number) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Kapil-2201/Leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Kapil-2201/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Kapil-2201/Leetcode/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/Kapil-2201/Leetcode/tree/master/0231-power-of-two) |
@@ -252,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Kapil-2201/Leetcode/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/Kapil-2201/Leetcode/tree/master/0067-add-binary) |
 | [0898-transpose-matrix](https://github.com/Kapil-2201/Leetcode/tree/master/0898-transpose-matrix) |
 | [1806-count-of-matches-in-tournament](https://github.com/Kapil-2201/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Kapil-2201/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
