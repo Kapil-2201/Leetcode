@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Kapil-2201/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Kapil-2201/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/Kapil-2201/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Kapil-2201/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Kapil-2201/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Kapil-2201/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Kapil-2201/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Kapil-2201/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Kapil-2201/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Kapil-2201/Leetcode/tree/master/0724-find-pivot-index) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Kapil-2201/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/Kapil-2201/Leetcode/tree/master/0898-transpose-matrix) |
 | [0948-sort-an-array](https://github.com/Kapil-2201/Leetcode/tree/master/0948-sort-an-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Kapil-2201/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
