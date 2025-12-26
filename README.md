@@ -452,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/Kapil-2201/Leetcode/tree/master/0175-combine-two-tables) |
 | [1827-invalid-tweets](https://github.com/Kapil-2201/Leetcode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Kapil-2201/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
